@@ -18,3 +18,5 @@ Rear Camera  | Dual 13 MP
 Front Camera | 8 MP
 
 ![Essential PH-1](https://cdn2.gsmarena.com/vv/bigpic/essential-phone.jpg "Essential PH-1")
+
+NOTE: MEANT TO BE USED WITH TWRP MINIMAL MANIFEST
